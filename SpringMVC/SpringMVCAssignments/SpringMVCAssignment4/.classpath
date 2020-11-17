@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="WebContent/WEB-INF/lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Spring/Spring MVC/com.springsource.javax.validation-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/Spring MVC/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/Spring MVC/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/Spring MVC/hibernate-validator-4.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/Spring MVC/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/Spring MVC/spring-aop-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/Spring MVC/spring-aspects-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/Spring MVC/spring-beans-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/Spring MVC/spring-context-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/Spring MVC/spring-context-support-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/Spring MVC/spring-core-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/Spring MVC/spring-expression-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/Spring MVC/spring-instrument-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/Spring MVC/spring-instrument-tomcat-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/Spring MVC/spring-jdbc-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/Spring MVC/spring-jms-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/Spring MVC/spring-messaging-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/Spring MVC/spring-orm-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/Spring MVC/spring-oxm-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/Spring MVC/spring-tx-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/Spring MVC/spring-web-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/Spring MVC/spring-webmvc-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/Spring MVC/spring-webmvc-portlet-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/Spring MVC/spring-websocket-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

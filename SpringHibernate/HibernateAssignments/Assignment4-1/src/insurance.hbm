@@ -1,0 +1,8 @@
+<hibernate-mapping>
+<class name="Insurance" table="hibernate_create_insert_update_delete">
+<id name="id" type="int" column="id"/>
+<property name="name" column="name" type="string"/>
+<property name="policyNo" column="policy_no" type="int"/>
+<property name="amount" column="amount" type="int"/>
+</class>
+</hibernate-mapping>
